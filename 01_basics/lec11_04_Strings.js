@@ -20,3 +20,18 @@ let firstName ="Dhaneshh"
 let lastName ="Kumar"
 console.log(firstName.concat(" ",lastName)) //.concat() is used for adding to strings
 
+
+//++++++++++++++++++++++Math Portion++++++++++++++++++++++++++++++++
+
+// console.log(Math.abs(-5)); // Math.abs() change the -ve value in to +ve
+// console.log(Math.round(4.56)); //Math.round() changes the decimal value into a number
+// console.log(Math.ceil(4.001))// Math.ceil() se hume upper value milegi..means agr 4 se bhale age 4.1 or 4.001 value to ceil usko 5 me change karega
+// console.log(Math.floor(4.6))// agr value bhale 4.99 ho per yeh value ko 4 return karega
+// console.log(Math.min(3, 19,13,11,2,1,0.5,0.3))// Math.min() se hume aray me lowest value milegi
+// //similarly we have
+// console.log(Math.max(1,3,8,2,9,10,8,11,34,29))// return se highest value in array
+
+console.log(Math.random()); // Math.random() returns a random between 0 and 1
+const min =10;
+const max =20;
+// console.log(Math.floor(Math.random()*(max-min+1))+min)
