@@ -1,8 +1,8 @@
-let score = 'hitesh'
+// let score = 'hitesh'
 // console.log(typeof score);
 // console.log(typeof(score));
 
-let valueInnumber= Number(score)
+// let valueInnumber= Number(score)
 // console.log(valueInnumber);
 // console.log(typeof valueInnumber)
 
@@ -11,9 +11,9 @@ let valueInnumber= Number(score)
 // true = 1,  false =0 jab hum number ko boolean me convert kerte hen to 
 
 
-let isloggedIn =" "
-let NumberisloggedIn =Boolean(isloggedIn)
-console.log(NumberisloggedIn)
+// let isloggedIn =" "
+// let NumberisloggedIn =Boolean(isloggedIn)
+// console.log(NumberisloggedIn)
 
 //1 => true , 0 =>false
 // ""=> false, "hitesh" =>true
@@ -21,7 +21,14 @@ console.log(NumberisloggedIn)
 
 //How to convert number in string
 let Somenumber= 33
-let SomenumberInString =String(Somenumber)
+let SomenumberInString = String(Somenumber)
 console.log(SomenumberInString)
 console.log(typeof SomenumberInString)
 
+//**********OPERATIONS************
+
+//"+"
+//"-"
+//"*"
+//"/"
+//"%"
